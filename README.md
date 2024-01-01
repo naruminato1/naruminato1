@@ -3,8 +3,8 @@
 | Rank |     TO_DO     |
 |-----:|---------------|
 |     1|    ${{\color{red}\{\textsf{   GET\ JOB\ \}}}}\$  |
-|     2|    GET JOB #E64915   |
-|     3|    GET JOB  #E64915  |
+|     2|    ${{\color{red}\{\textsf{   GET\ JOB\ \}}}}\$  |
+|     3|    ${{\color{red}\{\textsf{   GET\ JOB\ \}}}}\$  |
 
 
 <picture>
