@@ -2,7 +2,7 @@
 🧐  👽  🙈🙉🙊
 | Rank |     TO_DO     |
 |-----:|---------------|
-|     1|    $${\color{GET JOB}Red}$$  |
+|     1|    <font color="#9900FF"> Welcome to freeCodeCamp. </font>  |
 |     2|    GET JOB #E64915   |
 |     3|    GET JOB  #E64915  |
 
