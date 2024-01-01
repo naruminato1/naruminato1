@@ -2,7 +2,7 @@
 🧐  👽  🙈🙉🙊
 | Rank |     TO_DO     |
 |-----:|---------------|
-|     1|    $${\color{red}Red}$$  |
+|     1|    $${\color{GET JOB}Red}$$  |
 |     2|    GET JOB #E64915   |
 |     3|    GET JOB  #E64915  |
 
