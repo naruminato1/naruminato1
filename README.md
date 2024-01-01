@@ -2,9 +2,9 @@
 🧐  👽  🙈🙉🙊
 | Rank |     TO_DO     |
 |-----:|---------------|
-|     1|    GET JOB    |
-|     2|    GET JOB    |
-|     3|    GET JOB    |
+|     1|    GET JOB #E64915    |
+|     2|    GET JOB #E64915   |
+|     3|    GET JOB  #E64915  |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.cdc.gov/diabetes/images/library/features/GettyImages-90695610_Diabetes-Feet.jpg?_=83379">
