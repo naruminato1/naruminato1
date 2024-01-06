@@ -7,7 +7,10 @@
 |     2|    ${{\color{red}\{\textsf{   GET\ JOB\ \}}}}\$  |
 |     3|    ${{\color{red}\{\textsf{   GET\ JOB\ \}}}}\$  |
 
+<!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=naruminato1&theme=dark&show_icons=true)
+-->
+
 
 <!--
 <a href="https://github.com/naruminato1/github-readme-stats">
