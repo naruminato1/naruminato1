@@ -1,4 +1,5 @@
 ## **👋 Hello World**
+<!--
 🧐  👽  🙈🙉🙊
 
 | Rank |     TO_DO     |
@@ -6,7 +7,7 @@
 |     1|    ${{\color{red}\{\textsf{   CODE\ \}}}}\$  |
 |     2|    ${{\color{red}\{\textsf{   CODE\ \}}}}\$  |
 |     3|    ${{\color{red}\{\textsf{   CODE\ \}}}}\$  |
-
+-->
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=naruminato1&theme=dark&show_icons=true)
 -->
